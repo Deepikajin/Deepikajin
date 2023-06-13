@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deepika
+- 👋 Hi, I’m Deepika
 - 🌱 I’m currently learning Laravel
 - 📫 Reach me @ deepij.1989@gmail.com
 
